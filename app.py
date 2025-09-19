@@ -16,7 +16,7 @@ BBOX = {"min_lon": 95.0, "max_lon": 141.0, "min_lat": -11.0, "max_lat": 6.0}
 VARIABLES = ['CRW_SST', 'CRW_SSTANOMALY', 'CRW_HOTSPOT', 'CRW_DHW']
 TIME_STEPS = 12
 DATA_URL = "https://pae-paha.pacioos.hawaii.edu/thredds/dodsC/dhw_5km"
-SHAPEFILE_PATH = r"C:\Users\rapha\Documents\VSCode\Kaggle\Iconic IT\Dataset\Peta Terumbu Karang Indonesia\Coral_Ind_250K.shp"
+SHAPEFILE_PATH = "Peta Terumbu Karang Indonesia/Coral_Ind_250K.shp"
 MODEL_PATH = 'nusantara_reef_guardian_model.h5'
 EXPECTED_SHAPE = (338, 914)
 
