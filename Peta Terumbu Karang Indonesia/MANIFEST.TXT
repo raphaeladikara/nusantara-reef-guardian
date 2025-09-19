@@ -1,0 +1,7 @@
+Coral_Ind_250K.prj (application/prj) 145 bytes.
+Coral_Ind_250K.shp (application/shp) 27361056 bytes.
+Coral_Ind_250K.shx (application/shx) 151060 bytes.
+Coral_Ind_250K.sbx (application/sbx) 6548 bytes.
+Coral_Ind_250K.shp.xml (text/xml) 1070 bytes.
+Coral_Ind_250K.dbf (application/dbf) 2792954 bytes.
+Coral_Ind_250K.sbn (application/sbn) 188740 bytes.

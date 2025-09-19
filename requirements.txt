@@ -1,0 +1,10 @@
+streamlit
+numpy
+tensorflow
+xarray
+geopandas
+pandas
+plotly
+rioxarray
+netCDF4
+pyogrio
